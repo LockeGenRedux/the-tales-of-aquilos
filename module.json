@@ -16,7 +16,8 @@
   "authors": [
     {
       "name": "Logan Gibson",
-      "discord":"lockegenredux"
+      "discord":"lockegenredux",
+      "email":"lockegenredux@gmail.com"
     }
   ],
   "packs": [
@@ -268,6 +269,84 @@
       ]
     }
   ],
+  "flags": {
+  "the-tales-of-aquilos": {
+    "pf2e-homebrew": {
+      "baseWeapons": {
+        "nashi-bomblobber": "Nashi Bomblobber",
+        "nashi-flamebelcher": "Nashi Flamebelcher"
+      },
+      "creatureTraits": {
+        "aervahl": "Aervahl",
+        "capra": "Capra",
+        "diz": "Diz",
+        "drachenar": "Drachenar",
+        "dracosis": "Dracosis",
+        "eridae": "Eridae",
+        "kythrm": "Kythrm",
+        "salyre": "Salyre",
+        "syldir": "Syldir",
+        "death": "Death"
+      },
+      "languages": {
+        "promitheran":"Promitheran",
+        "kyranian": "Kyranian",
+        "babylonian": "Babylonian",
+        "aeran": "Aeran",
+        "aervahlian": "Aervahlian"
+      },
+      "equipmentTraits": {
+        "hecaton-arm": {
+          "label": "Hecaton Arm",
+          "description": "Hecaton Arms are a form of gadget that can only be used in conjunction with a Hecatoncheires. Each one has a unique look, function, and grants a set of Boost and Breaker actions that can be taken while one is affixed. These do not affect your ability to manipulate items or use your hand in any way, despite some of their appearances."
+        },
+        "paired": {
+          "label": "Paired",
+          "description": "An item with this trait requires you to have both components in order to use the additional functions that the item may have."
+        }
+      },
+      "featTraits": {
+        "aervahl": "Aervahl",
+        "capra": "Capra",
+        "diz": "Diz",
+        "drachenar": "Drachenar",
+        "dracosis": "Dracosis",
+        "eridae": "Eridae",
+        "kythrm": "Kythrm",
+        "salyre": "Salyre",
+        "syldir": "Syldir"
+      },
+      "spellTraits": {
+        "tetra": {
+          "label":"Tetra",
+          "description":"Effects with the tetra trait tend to be rare and often unseen, as Tetra magic itself is not used by many ancestries. These effects often bend the rules of the world in unexpected ways."
+        },
+        "gravity": {
+          "label":"Gravity",
+          "description": "Effects with the gravity trait tend to deal with entropy and the weight of gravity. These effects rarely work in areas of zero gravity."
+        }
+      },
+      "weaponTraits": {
+        "hecaton-arm": {
+          "label": "Hecaton Arm",
+          "description": "Hecaton Arms are a form of gadget that can only be used in conjunction with a Hecatoncheires. Each one has a unique look, function, and grants a set of Boost and Breaker actions that can be taken while one is affixed. These do not affect your ability to manipulate items or use your hand in any way, despite some of their appearances."
+        },
+        "kythrm": {
+          "label": "Kythrm",
+          "description": "A creature with this trait is a member of the kythrm ancestry. These feathered humanoids have long wing-like fingers and a bone chestplate called a keel. A weapon with this trait is a weapon which Kythrm craft and use."
+        },
+        "salyre": {
+          "label": "Salyre",
+          "description": "A creature with this trait is a member of the salyre ancestry. These fuzzy, lagomorphic humanoids have a penchant for hopping planes and getting into new adventures. A weapon with this trait is a weapon which Salyre craft and use."
+        },
+        "eridae": {
+          "label": "Eridae",
+          "description": "A creature with this trait is a member of the eridae ancestry. These furred, bipedal humanoids have bear-like features and an affinity for nature. A weapon with this trait is a weapon which Eridae craft and use."
+        }
+      }
+    }
+  }
+},
   "relationships": {
     "systems": [
       {

@@ -1,4 +1,7 @@
-2025/05/28-14:43:38.028 6ac30 Log #128: 0 ops saved to Table #129 OK
-2025/05/28-14:43:38.030 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\macros/000128.log: OK
-2025/05/28-14:43:38.035 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\macros/MANIFEST-000126: OK
-2025/05/28-14:43:38.042 6ac30 **** Repaired leveldb C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\macros; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/05/28-14:52:06.682 6af28 Recovering log #131
+2025/05/28-14:52:06.690 6af28 Delete type=0 #131
+2025/05/28-14:52:06.691 6af28 Delete type=3 #130
+2025/05/28-14:57:21.217 62288 Level-0 table #135: started
+2025/05/28-14:57:21.217 62288 Level-0 table #135: 0 bytes OK
+2025/05/28-14:57:21.219 62288 Delete type=0 #133
+2025/05/28-14:57:21.225 62288 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

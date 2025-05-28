@@ -1,4 +1,7 @@
-2025/05/28-14:43:37.930 6ac30 Log #128: 0 ops saved to Table #129 OK
-2025/05/28-14:43:37.932 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\monster-features/000128.log: OK
-2025/05/28-14:43:37.937 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\monster-features/MANIFEST-000126: OK
-2025/05/28-14:43:37.944 6ac30 **** Repaired leveldb C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\monster-features; recovered 0 files; 0 bytes. Some data may have been lost. ****
+2025/05/28-14:52:06.635 6a1d0 Recovering log #131
+2025/05/28-14:52:06.644 6a1d0 Delete type=0 #131
+2025/05/28-14:52:06.645 6a1d0 Delete type=3 #130
+2025/05/28-14:57:21.194 62288 Level-0 table #135: started
+2025/05/28-14:57:21.194 62288 Level-0 table #135: 0 bytes OK
+2025/05/28-14:57:21.195 62288 Delete type=0 #133
+2025/05/28-14:57:21.206 62288 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
