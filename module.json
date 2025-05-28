@@ -5,7 +5,7 @@
   "description": "A homebrew content module for the world of Aquilos, built for Foundry VTT's pf2e game system.",
   "version": "1.0",
   "url": "https://github.com/LockeGenRedux/the-tales-of-aquilos",
-  "manifest":"https://raw.githubusercontent.com/LockeGenRedux/the-tales-of-aquilos/module.json",
+  "manifest":"https://raw.githubusercontent.com/LockeGenRedux/the-tales-of-aquilos/main/module.json",
   "download":"https://github.com/LockeGenRedux/the-tales-of-aquilos/archive/refs/heads/main.zip",
   "compatibleCoreVersion": "12",
   "compatibility": {
