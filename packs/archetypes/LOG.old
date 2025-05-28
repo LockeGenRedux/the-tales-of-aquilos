@@ -1,7 +1,4 @@
-2025/05/28-15:46:49.695203 7f7d9ddfdb38 Recovering log #121
-2025/05/28-15:46:49.708536 7f7d9ddfdb38 Delete type=0 #121
-2025/05/28-15:46:49.709409 7f7d9ddfdb38 Delete type=3 #120
-2025/05/28-15:53:43.948576 7f78901bdb38 Level-0 table #125: started
-2025/05/28-15:53:43.949481 7f78901bdb38 Level-0 table #125: 0 bytes OK
-2025/05/28-15:53:43.958390 7f78901bdb38 Delete type=0 #123
-2025/05/28-15:53:43.959804 7f78901bdb38 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/05/28-14:43:38.161 6ac30 Log #128: 0 ops saved to Table #129 OK
+2025/05/28-14:43:38.164 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\archetypes/000128.log: OK
+2025/05/28-14:43:38.169 6ac30 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\archetypes/MANIFEST-000126: OK
+2025/05/28-14:43:38.175 6ac30 **** Repaired leveldb C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\archetypes; recovered 0 files; 0 bytes. Some data may have been lost. ****

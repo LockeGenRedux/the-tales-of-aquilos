@@ -1,15 +1,5 @@
-2025/05/28-15:46:49.829601 7f7d9f606b38 Recovering log #121
-2025/05/28-15:46:49.831454 7f7d9f606b38 Level-0 table #123: started
-2025/05/28-15:46:49.841282 7f7d9f606b38 Level-0 table #123: 60848 bytes OK
-2025/05/28-15:46:49.855562 7f7d9f606b38 Delete type=0 #121
-2025/05/28-15:46:49.856487 7f7d9f606b38 Delete type=3 #120
-2025/05/28-15:53:43.977874 7f78901bdb38 Level-0 table #126: started
-2025/05/28-15:53:43.978831 7f78901bdb38 Level-0 table #126: 0 bytes OK
-2025/05/28-15:53:43.986498 7f78901bdb38 Delete type=0 #124
-2025/05/28-15:53:44.056009 7f78901bdb38 Manual compaction at level-0 from '!items!1XeemOPDXWxcozJG' @ 72057594037927935 : 1 .. '!items!wHUKsqGwQBVXs7QH' @ 0 : 0; will stop at '!items!wHUKsqGwQBVXs7QH' @ 2 : 1
-2025/05/28-15:53:44.056165 7f78901bdb38 Compacting 1@0 + 0@1 files
-2025/05/28-15:53:44.066164 7f78901bdb38 Generated table #127@0: 21 keys, 60848 bytes
-2025/05/28-15:53:44.066295 7f78901bdb38 Compacted 1@0 + 0@1 files => 60848 bytes
-2025/05/28-15:53:44.069970 7f78901bdb38 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/05/28-15:53:44.071571 7f78901bdb38 Delete type=2 #123
-2025/05/28-15:53:44.081179 7f78901bdb38 Manual compaction at level-0 from '!items!wHUKsqGwQBVXs7QH' @ 2 : 1 .. '!items!wHUKsqGwQBVXs7QH' @ 0 : 0; will stop at (end)
+2025/05/28-14:43:38.194 6ac24 Log #130: 0 ops saved to Table #131 OK
+2025/05/28-14:43:38.195 6ac24 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\deities/000130.log: OK
+2025/05/28-14:43:38.200 6ac24 Table #127: 21 entries OK
+2025/05/28-14:43:38.205 6ac24 Archiving C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\deities/MANIFEST-000128: OK
+2025/05/28-14:43:38.211 6ac24 **** Repaired leveldb C:\Users\locke\AppData\Local\FoundryVTT\Data\modules\the-tales-of-aquilos\packs\deities; recovered 1 files; 60848 bytes. Some data may have been lost. ****
