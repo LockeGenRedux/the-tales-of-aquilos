@@ -109,12 +109,17 @@
       "package": "the-tales-of-aquilos"
     },
     {
-      "name": "item-5-ancestries",
+      "name": "ancestries",
       "label": "Ancestries",
-      "path": "packs/item-5-ancestries.db",
+      "path": "packs/ancestries.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
       "name": "item-6-archetypes",
