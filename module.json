@@ -21,92 +21,147 @@
   ],
   "packs": [
     {
-      "name": "actor-1-characters",
+      "name": "characters",
       "label": "Characters",
-      "path": "packs/actor-1-characters.db",
+      "path": "packs/characters.db",
       "entity": "Actor",
       "type": "Actor",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-1-spells",
+      "name": "spells",
       "label": "Spells",
-      "path": "packs/item-1-spells.db",
+      "path": "packs/spells.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-2-items",
+      "name": "items",
       "label": "Items",
-      "path": "packs/item-2-items.db",
+      "path": "packs/items.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "cards-1-ennead-cards",
+      "name": "ennead-cards",
       "label": "Ennead Cards",
-      "path": "packs/cards-1-ennead-cards.db",
+      "path": "packs/ennead-cards.db",
       "entity": "Cards",
       "type": "Cards",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-3-classes",
+      "name": "classes",
       "label": "Classes",
-      "path": "packs/item-3-classes.db",
+      "path": "packs/classes.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-4-monster-features",
+      "name": "monster-features",
       "label": "Monster Features",
-      "path": "packs/item-4-monster-features.db",
+      "path": "packs/monster-features.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "journalentry-1-journal-entries",
+      "name": "journal-entries",
       "label": "Journal Entries",
-      "path": "packs/journalentry-1-journal-entries.db",
+      "path": "packs/journal-entries.db",
       "entity": "JournalEntry",
       "type": "JournalEntry",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "scene-1-scenes",
+      "name": "scenes",
       "label": "Scenes",
-      "path": "packs/scene-1-scenes.db",
+      "path": "packs/scenes.db",
       "entity": "Scene",
       "type": "Scene",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "macro-1-macros",
+      "name": "macros",
       "label": "Macros",
-      "path": "packs/macro-1-macros.db",
+      "path": "packs/macros.db",
       "entity": "Macro",
       "type": "Macro",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "rolltable-1-roll-tables",
+      "name": "roll-tables",
       "label": "Roll Tables",
-      "path": "packs/rolltable-1-roll-tables.db",
+      "path": "packs/roll-tables.db",
       "entity": "RollTable",
       "type": "RollTable",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "actor-2-companions",
+      "name": "companions",
       "label": "Companions",
-      "path": "packs/actor-2-companions.db",
+      "path": "packs/companions.db",
       "entity": "Actor",
       "type": "Actor",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
       "name": "ancestries",
@@ -122,44 +177,69 @@
       }
     },
     {
-      "name": "item-6-archetypes",
+      "name": "archetypes",
       "label": "Archetypes",
-      "path": "packs/item-6-archetypes.db",
+      "path": "packs/archetypes.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-7-deities",
+      "name": "deities",
       "label": "Deities",
-      "path": "packs/item-7-deities.db",
+      "path": "packs/deities.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-8-feats",
+      "name": "feats",
       "label": "Feats",
-      "path": "packs/item-8-feats.db",
+      "path": "packs/feats.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-9-backgrounds",
+      "name": "backgrounds",
       "label": "Backgrounds",
-      "path": "packs/item-9-backgrounds.db",
+      "path": "packs/backgrounds.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     },
     {
-      "name": "item-10-effects",
+      "name": "effects",
       "label": "Effects",
-      "path": "packs/item-10-effects.db",
+      "path": "packs/effects.db",
       "entity": "Item",
       "type": "Item",
-      "package": "the-tales-of-aquilos"
+      "package": "the-tales-of-aquilos",
+      "system":"pf2e",
+      "ownership":{
+        "PLAYER":"OBSERVER",
+        "ASSISTANT":"OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -168,23 +248,23 @@
       "sorting": "m",
       "color": "#3f8230",
       "packs": [
-        "actor-1-characters",
-        "item-1-spells",
-        "item-2-items",
-        "cards-1-ennead-cards",
-        "item-3-classes",
-        "item-4-monster-features",
-        "journalentry-1-journal-entries",
-        "scene-1-scenes",
-        "macro-1-macros",
-        "rolltable-1-roll-tables",
-        "actor-2-companions",
-        "item-5-ancestries",
-        "item-6-archetypes",
-        "item-7-deities",
-        "item-8-feats",
-        "item-9-backgrounds",
-        "item-10-effects"
+        "characters",
+        "spells",
+        "items",
+        "ennead-cards",
+        "classes",
+        "monster-features",
+        "journal-entries",
+        "scenes",
+        "macros",
+        "roll-tables",
+        "companions",
+        "ancestries",
+        "archetypes",
+        "deities",
+        "feats",
+        "backgrounds",
+        "effects"
       ]
     }
   ],
