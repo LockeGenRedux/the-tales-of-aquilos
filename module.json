@@ -1,0 +1,190 @@
+{
+  "id": "the-tales-of-aquilos",
+  "name": "the-tales-of-aquilos",
+  "title": "Aquilos - PF2e Compendium (Shared Compendiums)",
+  "description": "A homebrew content module for the world of Aquilos, built for Foundry VTT's pf2e game system.",
+  "version": "1.0",
+  "url": "https://github.com/LockeGenRedux/the-tales-of-aquilos",
+  "compatibleCoreVersion": "12",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "author": "LockeGenRedux",
+  "authors": [
+    {
+      "name": "LockeGenRedux"
+    }
+  ],
+  "packs": [
+    {
+      "name": "actor-1-characters",
+      "label": "Characters",
+      "path": "packs/actor-1-characters.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-1-spells",
+      "label": "Spells",
+      "path": "packs/item-1-spells.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-2-items",
+      "label": "Items",
+      "path": "packs/item-2-items.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "cards-1-ennead-cards",
+      "label": "Ennead Cards",
+      "path": "packs/cards-1-ennead-cards.db",
+      "entity": "Cards",
+      "type": "Cards",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-3-classes",
+      "label": "Classes",
+      "path": "packs/item-3-classes.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-4-monster-features",
+      "label": "Monster Features",
+      "path": "packs/item-4-monster-features.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "journalentry-1-journal-entries",
+      "label": "Journal Entries",
+      "path": "packs/journalentry-1-journal-entries.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "scene-1-scenes",
+      "label": "Scenes",
+      "path": "packs/scene-1-scenes.db",
+      "entity": "Scene",
+      "type": "Scene",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "macro-1-macros",
+      "label": "Macros",
+      "path": "packs/macro-1-macros.db",
+      "entity": "Macro",
+      "type": "Macro",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "rolltable-1-roll-tables",
+      "label": "Roll Tables",
+      "path": "packs/rolltable-1-roll-tables.db",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "actor-2-companions",
+      "label": "Companions",
+      "path": "packs/actor-2-companions.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-5-ancestries",
+      "label": "Ancestries",
+      "path": "packs/item-5-ancestries.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-6-archetypes",
+      "label": "Archetypes",
+      "path": "packs/item-6-archetypes.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-7-deities",
+      "label": "Deities",
+      "path": "packs/item-7-deities.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-8-feats",
+      "label": "Feats",
+      "path": "packs/item-8-feats.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-9-backgrounds",
+      "label": "Backgrounds",
+      "path": "packs/item-9-backgrounds.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    },
+    {
+      "name": "item-10-effects",
+      "label": "Effects",
+      "path": "packs/item-10-effects.db",
+      "entity": "Item",
+      "type": "Item",
+      "package": "the-tales-of-aquilos"
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "The Tales of Aquilos",
+      "sorting": "m",
+      "color": "#3f8230",
+      "packs": [
+        "actor-1-characters",
+        "item-1-spells",
+        "item-2-items",
+        "cards-1-ennead-cards",
+        "item-3-classes",
+        "item-4-monster-features",
+        "journalentry-1-journal-entries",
+        "scene-1-scenes",
+        "macro-1-macros",
+        "rolltable-1-roll-tables",
+        "actor-2-companions",
+        "item-5-ancestries",
+        "item-6-archetypes",
+        "item-7-deities",
+        "item-8-feats",
+        "item-9-backgrounds",
+        "item-10-effects"
+      ]
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e"
+      }
+    ]
+  }
+}
