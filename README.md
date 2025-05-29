@@ -11,7 +11,9 @@ A homebrew content module for the world of Aquilos, built for FoundryVTT's pf2e 
 - The gregarious and friendly caprine folk, called the Capra.
 - The realm-hopping, adventure-driven lagomorph folk called the Salyre (with special thanks to the Rabbitfolk Ancestry from Luis Loza for inspiration and some of the feats! Consider supporting him on Patreon: [Here!](https://www.patreon.com/luisloza))
 - The transmutation-hearted quadrapedal miracle of alchemy called the Aervahl.
+ 
 New Feats for the Amurunn/Catfolk.
+
 21 New Deities related to the setting of Aquilos.
 
 ## Features to Come
