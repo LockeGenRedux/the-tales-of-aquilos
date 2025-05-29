@@ -14,7 +14,7 @@ A homebrew content module for the world of Aquilos, built for FoundryVTT's pf2e 
 New Feats for the Amurunn/Catfolk.
 21 New Deities related to the setting of Aquilos.
 
-##Features to Come
+## Features to Come
 Several new Archetypes, based off of the iconics within Aquilos, as well as several themed after the powerful Babylonian Specialists.
 - The incarnate-spell based Ikonist, who bonds with powerful creatures across the realm and calls them forth during battle.
 - The stalwart and agile Royal Dragoon, who wield polearms and reach weapons to great effect, while combining their martial prowess with powerful hops and leaps.
