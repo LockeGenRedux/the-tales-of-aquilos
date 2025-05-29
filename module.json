@@ -246,7 +246,7 @@
   "packFolders": [
     {
       "name": "The Tales of Aquilos",
-      "sorting": "m",
+      "sorting": "a",
       "color": "#3f8230",
       "packs": [
         "characters",
