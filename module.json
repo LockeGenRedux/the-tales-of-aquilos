@@ -280,6 +280,14 @@
   "flags": {
   "the-tales-of-aquilos": {
     "pf2e-homebrew": {
+      "armorGroups": {
+        "immith": "TTOA.Armor.Group.Immith"
+      },
+      "baseArmors": {
+        "immith-bastion": "TTOA.Armor.Base.ImmithBastion",
+        "immith-vanguard": "TTOA.Armor.Base.ImmithVanguard",
+        "hexweave-bodysuit": "TTOA.Armor.Base.HexweaveBodysuit"
+      },
       "baseWeapons": {
         "hand-instrument": "TTOA.BaseWeapon.HandInstrument",
         "heavy-instrument": "TTOA.BaseWeapon.HeavyInstrument",
@@ -324,6 +332,14 @@
         "paired": {
           "label": "TTOA.Trait.Paired",
           "description": "TTOA.TraitDescription.Paired"
+        },
+        "affixture": {
+          "label": "TTOA.Trait.Affixture",
+          "description": "TTOA.TraitDescription.Affixture"
+        },
+        "immith": {
+          "label": "TTOA.Trait.Immith",
+          "description": "TTOA.TraitDescription.Immith"
         }
       },
       "featTraits": {

@@ -1,8 +1,18 @@
 {
     "PF2E": {
-        "TraitCatfolk": "TTOA.Trait.Diz"
+        "TraitCatfolk": "Diz"
     },
     "TTOA": {
+        "Armor": {
+            "Base": {
+                "ImmithBastion": "Immith Bastion",
+                "ImmithVanguard": "Immith Vanguard",
+                "HexweaveBodysuit": "Hexweave Bodysuit"
+            },
+            "Group": {
+                "Immith": "Immith"
+            }
+        },
         "BaseWeapon": {
             "HandInstrument": "Handheld Instrument of War",
             "HeavyInstrument": "Heavy Instrument of War",
@@ -22,6 +32,7 @@
         },
         "Trait": {
             "Aervahl": "Aervahl",
+            "Affixture": "Affixture",
             "Bond": "Bond",
             "Capra": "Capra",
             "Death": "Death",
@@ -32,6 +43,7 @@
             "Gravity": "Gravity",
             "Guardian": "Guardian",
             "HecatonArm": "Hecaton Arm",
+            "Immith": "Immith",
             "Junction": "Junction",
             "Kythrm": "Kythrm",
             "Paired": "Paired",
@@ -41,6 +53,7 @@
         },
         "TraitDescription": {
             "Aervahl": "A creature with this trait is a member of the Aervahl ancestry. These quadrapedal, magical creations have a wide variety of animalistic features and an a strong source of transmutative magic within.",
+            "Affixture": "Affixtures are an optional rule in The Tales of Aquilos that allow creatures to stow a number of different items for quick and easy use. These can be items of varying sizes and traits, but must reasonably be an item that can be strapped, tied, or otherwise attached to something within quick reach (such as a belt, bandolier, or vest.) These often include most consumables, wands, and scrolls. Items stowed in this way can be activated without needing any additional Interact actions to draw or stow.",
             "Bond": "Effects with the bond trait are typically related to Guardians and the pinnacle of power achieved from being Junctioned to them. Bond spells work similar to Incarnate spells, with an arrival and departure effect, but often linger for a longer period of time and can act at the end of your turn as if they were independent creatures while sustained.",
             "Capra": "A creature with this trait is a member of the Capra ancestry. These humanoid bovid people have a penchant for friendly conversation and problem solving, alongside their often unnerving or entrancing appearances.",
             "Death": "A creature with the Death trait is heavily associated with the realm of death and the afterlife, similar to a psycopomp but without are not typically monitors directly. An effect with the death trait kills you immediately if it reduces you to 0 HP. Some death effects can bring you closer to death or slay you outright without reducing you to 0 HP.",
@@ -51,6 +64,7 @@
             "Gravity": "Effects with the gravity trait tend to deal with entropy and the weight of gravity. These effects rarely work in areas of zero gravity.",
             "Guardian": "A creature with this trait is designated as a Guardian for the purposes of Junction, allowing certain characters or Ikonists to make connections with them and gain bond levels.",
             "HecatonArm": "Hecaton Arms are a form of gadget that can only be used in conjunction with a Hecatoncheires. Each one has a unique look, function, and grants a set of Boost and Breaker actions that can be taken while one is affixed. These do not affect your ability to manipulate items or use your hand in any way, despite some of their appearances.",
+            "Immith": "Immith is an incredibly rare substance that is sturdy enough to lessen the blow of critical hits, has a lighter makeup than most common alloy, and can be enchanted with ease.",
             "Junction": "Junction is the process in which an individual bonds themselves to another powerful creature to share in a magical, tethered connection that empowers them both as they grow in experience. Feats with this trait are related to this process, or inform a feature that requires Junction.",
             "Kythrm": "A creature with this trait is a member of the Kythrm ancestry. These feathered humanoids have long wing-like fingers and a bone chestplate called a keel. A weapon with this trait is a weapon which Kythrm craft and use.",
             "Paired": "An item with this trait requires you to have both components in order to use the additional functions that the item may have.",
