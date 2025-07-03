@@ -1,15 +1,15 @@
-2025/06/14-19:51:30.207 4c488 Recovering log #183
-2025/06/14-19:51:30.216 4c488 Delete type=0 #183
-2025/06/14-19:51:30.216 4c488 Delete type=3 #181
-2025/06/14-22:10:23.745 4f3a4 Level-0 table #189: started
-2025/06/14-22:10:23.748 4f3a4 Level-0 table #189: 23220 bytes OK
-2025/06/14-22:10:23.751 4f3a4 Delete type=0 #187
-2025/06/14-22:10:23.751 4f3a4 Manual compaction at level-0 from '!folders!1dKYzel1BoIuvWWE' @ 72057594037927935 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at (end)
-2025/06/14-22:10:23.751 4f3a4 Manual compaction at level-1 from '!folders!1dKYzel1BoIuvWWE' @ 72057594037927935 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at '!items!wEJcSIdfhXhmcxkL' @ 653 : 1
-2025/06/14-22:10:23.751 4f3a4 Compacting 1@1 + 1@2 files
-2025/06/14-22:10:23.758 4f3a4 Generated table #190@1: 41 keys, 55405 bytes
-2025/06/14-22:10:23.758 4f3a4 Compacted 1@1 + 1@2 files => 55405 bytes
-2025/06/14-22:10:23.762 4f3a4 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/14-22:10:23.762 4f3a4 Delete type=2 #185
-2025/06/14-22:10:23.762 4f3a4 Delete type=2 #189
-2025/06/14-22:10:23.770 4f3a4 Manual compaction at level-1 from '!items!wEJcSIdfhXhmcxkL' @ 653 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at (end)
+2025/07/03-08:56:09.072 22b34 Recovering log #198
+2025/07/03-08:56:09.080 22b34 Delete type=0 #198
+2025/07/03-08:56:09.080 22b34 Delete type=3 #196
+2025/07/03-09:59:57.721 23118 Level-0 table #204: started
+2025/07/03-09:59:57.725 23118 Level-0 table #204: 37465 bytes OK
+2025/07/03-09:59:57.727 23118 Delete type=0 #202
+2025/07/03-09:59:57.727 23118 Manual compaction at level-0 from '!folders!0mCw3aOJW5n6zFY0' @ 72057594037927935 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at (end)
+2025/07/03-09:59:57.727 23118 Manual compaction at level-1 from '!folders!0mCw3aOJW5n6zFY0' @ 72057594037927935 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at '!items!jKsK5bKmW2PbkV0n' @ 755 : 1
+2025/07/03-09:59:57.727 23118 Compacting 1@1 + 1@2 files
+2025/07/03-09:59:57.733 23118 Generated table #205@1: 51 keys, 61005 bytes
+2025/07/03-09:59:57.733 23118 Compacted 1@1 + 1@2 files => 61005 bytes
+2025/07/03-09:59:57.736 23118 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/03-09:59:57.736 23118 Delete type=2 #200
+2025/07/03-09:59:57.737 23118 Delete type=2 #204
+2025/07/03-09:59:57.744 23118 Manual compaction at level-1 from '!items!jKsK5bKmW2PbkV0n' @ 755 : 1 .. '!items!wJyFK74cfrr3FKjj' @ 0 : 0; will stop at (end)
