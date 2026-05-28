@@ -1,7 +1,7 @@
-2025/09/08-12:50:19.068 51e98 Recovering log #222
-2025/09/08-12:50:19.077 51e98 Delete type=0 #222
-2025/09/08-12:50:19.077 51e98 Delete type=3 #220
-2025/09/08-12:51:35.108 50424 Level-0 table #227: started
-2025/09/08-12:51:35.108 50424 Level-0 table #227: 0 bytes OK
-2025/09/08-12:51:35.110 50424 Delete type=0 #225
-2025/09/08-12:51:35.118 50424 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2026/05/28-10:03:03.716 f3cc Recovering log #230
+2026/05/28-10:03:03.727 f3cc Delete type=0 #230
+2026/05/28-10:03:03.727 f3cc Delete type=3 #228
+2026/05/28-10:31:48.635 10254 Level-0 table #235: started
+2026/05/28-10:31:48.635 10254 Level-0 table #235: 0 bytes OK
+2026/05/28-10:31:48.638 10254 Delete type=0 #233
+2026/05/28-10:31:48.645 10254 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

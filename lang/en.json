@@ -18,7 +18,8 @@
             "HeavyInstrument": "Heavy Instrument of War",
             "M8LightPistol": "M8 Light Pistol",
             "ERN03SharpshooterRifle": "ERN-03 Sharpshooter Rifle",
-            "R17CombatRifle": "R-17 Combat Rifle"
+            "R17CombatRifle": "R-17 Combat Rifle",
+            "SkirmishSphere": "Skirmish Sphere"
         },
         "WeaponGroups": {
             "InstrumentOfWar": "Instrument of War"
